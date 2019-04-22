@@ -1,5 +1,4 @@
 # hello-world
-Kickoff repository
 
 Hello Friend!
 
